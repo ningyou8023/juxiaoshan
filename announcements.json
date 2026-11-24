@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "announcements": [
+    {
+      "id": "welcome",
+      "revision": "1",
+      "enabled": true,
+      "title": "欢迎来到剧小闪",
+      "content": [
+        {
+          "align": "center",
+          "spans": [
+            { "text": "把碎片时光，交给好故事", "fontSize": 18, "bold": true, "color": "#199B8A" }
+          ]
+        },
+        {
+          "spans": [
+            { "text": "分类找剧、一滑换集、弹幕陪伴与进度续播，让每次打开都能接上喜欢的故事。", "fontSize": 14 }
+          ]
+        },
+        {
+          "spans": [
+            { "text": "查看应用介绍与版本发布", "url": "https://github.com/ningyou8023/juxiaoshan", "bold": true, "underline": true }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "usage-notice",
+      "revision": "1",
+      "enabled": false,
+      "title": "使用提醒",
+      "content": [
+        {
+          "spans": [
+            { "text": "作品和素材归各自权利人所有。", "bold": true, "color": "#DB7556", "fontSize": 16 },
+            { "text": "内容与播放可用性以第三方服务返回为准，请通过正规渠道支持创作者。" }
+          ]
+        },
+        {
+          "spans": [
+            { "text": "更多说明可在“我的 → 免责声明”中查看。" }
+          ]
+        }
+      ]
+    }
+  ]
+}
