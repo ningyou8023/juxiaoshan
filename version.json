@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "buildNumber": 4011,
+  "buildNumber": 4028,
   "title": "剧小闪 1.0.0",
-  "body": "新增启动自动检查更新与设置页检查更新入口。\n\n优化清透玻璃开关动效，保留全局播放偏好。",
+  "body": "同步上游 PR 23 的播放签名与请求格式。新增 GitHub 多公告、链接和彩色富文本，以及今日忽略和手动查看。加入免责声明，完整第三方许可统一显示在开源许可页。",
   "url": "https://github.com/ningyou8023/juxiaoshan/releases/latest"
 }
