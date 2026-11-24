@@ -28,7 +28,7 @@
     {
       "id": "usage-notice",
       "revision": "1",
-      "enabled": false,
+      "enabled": true,
       "title": "使用提醒",
       "content": [
         {
