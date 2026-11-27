@@ -50,7 +50,12 @@
         },
         {
           "spans": [
-            { "text": "查看应用介绍与版本发布", "url": "https://github.com/ningyou8023/juxiaoshan", "bold": true, "underline": true }
+            { "text": "查看应用介绍与版本发布/n", "url": "https://github.com/ningyou8023/juxiaoshan", "bold": true, "underline": true }
+          ]
+        },
+        {
+          "spans": [
+            { "text": "加入官方群进行反馈", "url": "https://qm.qq.com/q/4nu4skoYEM", "bold": true, "underline": true }
           ]
         }
       ]
@@ -58,7 +63,7 @@
     {
       "id": "usage-notice",
       "revision": "1",
-      "enabled": false,
+      "enabled": true,
       "title": "使用提醒",
       "content": [
         {
